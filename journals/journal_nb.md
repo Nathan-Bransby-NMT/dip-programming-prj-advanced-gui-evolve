@@ -34,25 +34,55 @@
 
 > ### **What work you are planning to do next week?**
 > ---
-> - Set up OpenAI Account and configure API
->
+> - Set up OpenAI Account and configure API.
+> - Fix the file configuration to support Max / Linux users.
+
+> ### Issues and PRs
 > ---
+> - Unable to run the source files on Mac / Linux OS's.
 
-### Issues and PRs
-> list any issues you were working on or Pull request
-
-#### Retrospective
+> ### Retrospective
 > - **In what ways have your thoughts about the design changed this week and why?**
 >   
->       Answer
+>       N/A (First week working on project.)
 >   
 > - **Did you discuss these ideas with the group? What was the outcome?**
 > 
->       Answer
+>       Yes we discussed UI/UX design possibilities.
 >   
 > - **How did you validate your progress this week?**
 > 
->       Answer
+>       ?
+
+---
+
+## ``Tuesday 13-05-2024`` _(Summary)_
+---
+
+> ### **What work did you do this week?**
+> ---
+> 1. ...
+
+> ### **What work you are planning to do next week?**
+> ---
+> - ...
+
+> ### Issues and PRs
+> ---
+> - ...
+
+> ### Retrospective
+> - **In what ways have your thoughts about the design changed this week and why?**
+>   
+>       ...
+>   
+> - **Did you discuss these ideas with the group? What was the outcome?**
+> 
+>       ...
+>   
+> - **How did you validate your progress this week?**
+> 
+>       ...
 
 ---
 
@@ -62,5 +92,5 @@ Mark all that applied for each week
 |     Week | Attend class | Respond to PRs/Issues | Met with the team online | Commits to group repo |
 |---------:|:------------:|:---------------------:|:------------------------:|:---------------------:|
 |`May 7-13` | ☑️ | ❎  <br> **Comment:**<br> <sub><i>- No PRs or Issues to address.</i></sub> | ☑️ | ☑️ |
-|`May 14-21`| ⬜ | ⬜ | ⬜ | ⬜ |
+|`May 14-21`| ❎ <br> **Comment:**<br> <sub><i>- Unwell so didnt attend.</i></sub> | ☑️ | ☑️ | ☑️ |
 > :warning: If you were not able to mark any of these on a particular week, please email your lecturer with the reason.
