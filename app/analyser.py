@@ -71,10 +71,9 @@ def extract_pixel_average(source: Image, resolution: ImageResolution) -> DownSam
         source (Image):               A Pillow Image to extract its RGB pixel averaged values from.
         resolution (tuple[int, int]): The scaled-down image size (width, height) to extract, the lower the resolution, 
                                       the lower the accuracy.
-    
-    Raises:
-        FileNotFoundError: If the source is a Path that doesn't reflect a pre-existing path struction.
-        ValueError:        If the resolution argument is not within the range of the image.
+
+    Returns:
+        DownSampleImage: A 2D array containing RGB tuple values representing the pixels values from an averaged downsampled image.
     """
     res_width, res_height = resolution
     image_width, image_height = source.size
