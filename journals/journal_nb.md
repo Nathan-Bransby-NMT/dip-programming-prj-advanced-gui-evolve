@@ -141,6 +141,7 @@
 > ---
 > - Continue to work on my video pre-processor, hopefully piecing together the functionality to identify when an IDE is open through pixel averaging.
 > - Discuss with the team where they are at, offering assistance where neccessary.
+> - As our team leader dropped out of the assignment I plan on organising the reassignment of a team leader
 
 > ### Issues and PRs
 > ---
@@ -155,6 +156,9 @@
 >       through extracted code at different timestamps, linking the video to the extracted code. We are also
 >       looking to make the application more affordable to make it as accessible as possible for those who are
 >       visually impared.
+>       
+>       I reviewed a PR for fix  for operating the program on Linux 
+>       systems, and assigned the cert IV students to tasks.
 >   
 > - **Did you discuss these ideas with the group? What was the outcome?**
 > 
