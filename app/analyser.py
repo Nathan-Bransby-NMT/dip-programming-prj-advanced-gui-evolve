@@ -10,6 +10,14 @@ from typing import Union
 import utils
 import logging
 
+
+TimeRange = tuple[float, float]
+"""Timestamp range.
+
+Used to identify two points in a video, isolating the section for further reference.
+- Starting timestamp & ending timestamp.
+"""
+
 RgbColor = tuple[int, int, int]
 """RGB color value.
 
