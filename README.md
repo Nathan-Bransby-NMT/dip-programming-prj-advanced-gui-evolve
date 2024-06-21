@@ -5,9 +5,9 @@
 
 **AI Powered OCR Code Recognition from Video Tutorials**
 
-[![Build](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/build.yml/badge.svg)](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/build.yml)
-[![Tests](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/tests.yml/badge.svg)](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/tests.yml)
-[![Accessibility](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/accesibility.yml/badge.svg)](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/accesibility.yml)
+[![Build](https://github.com/NM-TAFE/dip-project-ocrroo/actions/workflows/build.yml/badge.svg)](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/build.yml)
+[![Tests](https://github.com/NM-TAFE/dip-project-ocrroo/actions/workflows/tests.yml/badge.svg)](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/actions/workflows/tests.yml)
+[![Accessibility](https://github.com/NM-TAFE/dip-project-ocrroo/actions/workflows/accesibility.yml/badge.svg)](https://github.com/NM-TAFE/dip-project-ocrroo/actions/workflows/accesibility.yml)
 
 </div>
 
@@ -18,13 +18,13 @@ The program reads code from videos to assist visually impaired developers in usi
 
 ## Installation
 
-To install and run this project, please follow the [Installation Guide](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/wiki/Installation-Guide)
-in the [Wiki](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/wiki).
+To install and run this project, please follow the [Installation Guide](https://github.com/NM-TAFE/dip-project-ocrroo/wiki/Installation-Guide)
+in the [Wiki](https://github.com/NM-TAFE/dip-project-ocrroo/wiki).
 
 ## Contributing
 
-To contribute to this project, please follow the [Contribution Guide](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/wiki/Contribution-Guide)
-in the [Wiki](https://github.com/NM-TAFE/project-advanced-ui-development-team-mental-capacity/wiki).
+To contribute to this project, please follow the [Contribution Guide](https://github.com/NM-TAFE/dip-project-ocrroo/wiki/wiki/Contribution-Guide)
+in the [Wiki](https://github.com/NM-TAFE/dip-project-ocrroo/wiki).
 
 ## License
 
